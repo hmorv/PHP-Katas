@@ -1,1 +1,3 @@
-PHP-Katas
+# PHP Katas
+
+Some PHP katas!
